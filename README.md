@@ -13,16 +13,20 @@ To install and run the Trashfall Game, follow these steps:
 1. Ensure you have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
 2. Clone the repository:
    ```
-   git clone https://github.com/AntonAshraf/TrashFall-game.git```
+   git clone https://github.com/AntonAshraf/TrashFall-game.git
+   ```
 4. Navigate to the project directory:
    ```
-   cd TrashFall-game```
+   cd TrashFall-game
+   ```
 6. Install the required dependencies:
    ```
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 8. Run the game:
    ```
-   python main.py```
+   python main.py
+   ```
 
 ## How to Play
 - Use the arrow keys to move the player left and right.
