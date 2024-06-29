@@ -1,0 +1,5 @@
+pygame==2.5.2
+pyglut==1.0.0
+wheel==0.43.0
+packages/PyOpenGL_accelerate-3.1.7-cp312-cp312-win_amd64.whl
+packages/PyOpenGL-3.1.7-cp312-cp312-win_amd64.whl
